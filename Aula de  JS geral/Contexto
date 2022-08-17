@@ -1,0 +1,55 @@
+O que vou aprender:
+
+# História
+Criador Brendan Eich
+Ajax - você envia dados do navegador para o servidor sem atualizar a página.
+
+Características
+- Imperativa e estruturada
+- Dinâmica
+- Baseada em Objetos
+- Funcional
+- Multi ambientes: web, mobile e servidor
+
+-------------------------------------------
+# DOM - Document Object Model
+Todas as tags HTML representa o DOM facilita a nossa comunicação com esses tipos de elementos
+atravez de eventos e ligações de elementos. A ligação do Javascript com o HTML
+
+- getElementById - index001.html
+    Como acessar um elemento do HTML
+
+- getElementsbyClassName - index002.html
+    Como acessar uma classe do HTML. As div deve estar com o atributo class
+
+- getElementsbyTagName - index003.html
+    Como acessar uma tag HTML pelo nome
+
+- querySelector
+    Uma simplificação dos outros 3 anteriores.
+    Pra acessar uma div usa-se #, para acessar uma classe usa-se o ".", para acessar o paragráfo diga o nome da tag.
+    Retornando apenas o primeiro elemento, não fazendo o arry dos elementos
+    
+- querySelectorAll
+- appendChild
+
+
+-------------------------------------------
+- Data types
+-------------------------------------------
+- Declarativas
+-------------------------------------------
+- Objetos
+-------------------------------------------
+- Arrays
+-------------------------------------------
+- Operadores matemáticos
+-------------------------------------------
+- Condicionais
+-------------------------------------------
+- Loops
+-------------------------------------------
+- Funções
+-------------------------------------------
+- Eventos
+-------------------------------------------
